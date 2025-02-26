@@ -13,5 +13,11 @@
 | [민서연(팀장)](https://github.com/gitseoyeon) | [문시원](https://github.com/muncool39) | [김서현](https://github.com/khoikangim) | [박세연](https://github.com/seye0n) |
 | Back-End | Back-End | Front-End | Front-End |
 
+
+
+## 🖼 Architecture
+<p align="center"><img src="https://github.com/user-attachments/assets/637b3d3e-c751-4af9-bef0-d71583c3b22c" width="800"/></p>
+
+
 ## 📚 자료
 [브로셔](https://github.com/team-FourS/.github/wiki/%5BDocs%5D-%EB%B8%8C%EB%A1%9C%EC%85%94)
