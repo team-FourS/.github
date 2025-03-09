@@ -2,7 +2,6 @@
 <p align="center"><img src="https://github.com/user-attachments/assets/773b427f-479d-4407-85d0-9e38168d8771" height="100"/></p>
 
 
-
 ## 📅 개발 기간
 `2023.04 ~ 2023.11`
 
@@ -20,4 +19,6 @@
 
 
 ## 📚 자료
-[브로셔](https://github.com/team-FourS/.github/wiki/%5BDocs%5D-%EB%B8%8C%EB%A1%9C%EC%85%94)
+[🎞 시연 영상](https://youtu.be/PfqSHbeszUk)
+
+[📃 브로셔](https://github.com/team-FourS/.github/wiki/%5BDocs%5D-%EB%B8%8C%EB%A1%9C%EC%85%94)
